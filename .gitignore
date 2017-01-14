@@ -1,0 +1,6 @@
+# ignore "/.vs"
+*~
+.vs/
+.bull_cow/Debug/
+.bull_cow/bull_cow.vcxproj
+.bull_cow/bull_cow.vcxproj.filters
